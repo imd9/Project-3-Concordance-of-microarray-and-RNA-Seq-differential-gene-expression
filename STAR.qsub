@@ -1,3 +1,6 @@
+# author: Preshita Dave
+# runs batch process to align reads using STAR
+
 #!/bin/bash -l
 #$ -P bf528
 #$ -pe mpi_16_tasks_per_node 16
