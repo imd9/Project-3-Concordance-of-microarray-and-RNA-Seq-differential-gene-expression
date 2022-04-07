@@ -1,3 +1,6 @@
+# author: Preshita Dave
+# runs multiqc which processes results from both fastqc and STAR
+
 #!/bin/bash
 
 #$ -P bf528
