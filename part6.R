@@ -1,3 +1,6 @@
+#Author: Monica Roberts
+#Purpose: part 6 of project 3. Computes concordance between microarray DE and RNA-Seq DE. Produces plots describing the results.
+
 library(ggplot2)
 library(dplyr)
 library(biomaRt)
