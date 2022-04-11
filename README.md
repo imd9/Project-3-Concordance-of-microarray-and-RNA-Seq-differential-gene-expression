@@ -15,4 +15,5 @@ Italo Duran: Programmer (duran01@bu.edu)
 
 # Repository Contents
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it.
+1. STAR.qsub - written by Preshita Dave. Executes the alignment used by the STAR module and outputs the aligned bam files and alignment statistics. 
+2. multiqc.qsub - written by Preshita Dave. Inputs the MultiQC module which summarizes the FastQC and STAR output files to generate an html file that displays overall statistics. 
