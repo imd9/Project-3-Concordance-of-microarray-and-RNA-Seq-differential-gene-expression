@@ -17,3 +17,5 @@ Italo Duran: Programmer (duran01@bu.edu)
 
 1. STAR.qsub - written by Preshita Dave. Executes the alignment used by the STAR module and outputs the aligned bam files and alignment statistics. 
 2. multiqc.qsub - written by Preshita Dave. Inputs the MultiQC module which summarizes the FastQC and STAR output files to generate an html file that displays overall statistics. 
+3. run_limma.R - written by Monica Roberts. Executes limma differential expression analysis for each treatment group on the RMA expression matrix provided by the authors. Writes the output to csv files that are used in part 6 for concordance calculations. Also plots statistics from limma analysis.
+4. part6.R - written by Monica Roberts. Takes limma DE results and DESeq2 results and does analysis on concordance between the two methods. Calculates true intersection, concordance score, and generates plots from the analysis. 
