@@ -17,5 +17,9 @@ Italo Duran: Programmer (duran01@bu.edu)
 
 1. STAR.qsub - written by Preshita Dave. Executes the alignment used by the STAR module and outputs the aligned bam files and alignment statistics. 
 2. multiqc.qsub - written by Preshita Dave. Inputs the MultiQC module which summarizes the FastQC and STAR output files to generate an html file that displays overall statistics. 
-3. run_limma.R - written by Monica Roberts. Executes limma differential expression analysis for each treatment group on the RMA expression matrix provided by the authors. Writes the output to csv files that are used in part 6 for concordance calculations. Also plots statistics from limma analysis.
-4. part6.R - written by Monica Roberts. Takes limma DE results and DESeq2 results and does analysis on concordance between the two methods. Calculates true intersection, concordance score, and generates plots from the analysis. 
+3. featureCounts.qsub - written by Italo Duran. Inputs all the bam files from STAR to make one file that holds all the samples for feature counts.
+4. 2nd MultiQC - written by Italo Duran. Inputs feature counts into a subq file which will analize the data and output and html file with feature counts and well as general statistics about the file. As well as distribution of counts and tranformation into csv.
+5. Boxplots, histograms and volcano plots from part 3 & 4, written by Italo Duran. Analyses of treated samples vs their matching control groups with thier respective vehicle. 
+7. DESeq2 & 10 top most common samples, written by Italo Duran.
+8. run_limma.R - written by Monica Roberts. Executes limma differential expression analysis for each treatment group on the RMA expression matrix provided by the authors. Writes the output to csv files that are used in part 6 for concordance calculations. Also plots statistics from limma analysis.
+9. part6.R - written by Monica Roberts. Takes limma DE results and DESeq2 results and does analysis on concordance between the two methods. Calculates true intersection, concordance score, and generates plots from the analysis. 
