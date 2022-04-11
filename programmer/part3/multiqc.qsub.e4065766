@@ -1,0 +1,11 @@
+[WARNING]         multiqc : MultiQC Version v1.12 now available!
+[INFO   ]         multiqc : This is MultiQC v1.10.1
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts
+[INFO   ]  feature_counts : Found 9 reports
+[INFO   ]         multiqc : Compressing plot data
+[WARNING]         multiqc : Previous MultiQC output found! Adjusting filenames..
+[WARNING]         multiqc : Use -f or --force to overwrite existing reports instead
+[INFO   ]         multiqc : Report      : multiqc_report_1.html
+[INFO   ]         multiqc : Data        : multiqc_data_1
+[INFO   ]         multiqc : MultiQC complete

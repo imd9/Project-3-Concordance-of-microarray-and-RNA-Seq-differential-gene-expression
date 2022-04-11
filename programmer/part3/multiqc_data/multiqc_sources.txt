@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	SRR1177968	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177968.txt.summary
+featureCounts	all_sections	SRR1177960	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177960.txt.summary
+featureCounts	all_sections	SRR1178023	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1178023.txt.summary
+featureCounts	all_sections	SRR1177971	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177971.txt.summary
+featureCounts	all_sections	SRR1177984	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177984.txt.summary
+featureCounts	all_sections	SRR1178049	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1178049.txt.summary
+featureCounts	all_sections	SRR1177986	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177986.txt.summary
+featureCounts	all_sections	SRR1177967	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177967.txt.summary
+featureCounts	all_sections	SRR1177985	/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177985.txt.summary

@@ -1,0 +1,33 @@
+#!/bin/bash
+
+#$ -P bf528
+#$ -cwd
+#$ -pe omp 16
+
+source /etc/bashrc
+
+# This script will run for featurecounts in the specified folder and output in another, be sure to check.
+
+# To run this command in terminal we run: qsub featureCounts.qsub
+# To check status of job we run: qstat -u featureCounts.qsub
+
+#load the module for this subq:
+module load subread/1.6.2
+
+# path to gtf annotation file, that we most use as a reference:
+GTF=/project/bf528/project_3/reference/rn4_refGene_20180308.gtf
+
+# The following command is to run on every file in our folder that ends with bam:
+for file in /projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/bam_files/*.bam
+do
+# Create a shortened filename:
+f=$(basename “$file”)
+f=${f:0:10}
+
+# This part, runs the featurecounts and outputs it to a new file, the last part is to rename the new file.
+# We need to run the following command:
+echo $f
+OUT=/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output$f.txt
+featureCounts -T 16 -a $GTF -o $OUT $file
+#this las part terminates the loop
+done;

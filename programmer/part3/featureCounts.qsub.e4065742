@@ -1,0 +1,450 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177960.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177960.txt               ||
+||                 Summary : featureCounts_outputSRR1177960.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177960.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 36936024                                                  ||
+||    Successfully assigned reads : 19782601 (53.6%)                          ||
+||    Running time : 0.07 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177960.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177967.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177967.txt               ||
+||                 Summary : featureCounts_outputSRR1177967.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177967.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 32106856                                                  ||
+||    Successfully assigned reads : 19161425 (59.7%)                          ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177967.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177968.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177968.txt               ||
+||                 Summary : featureCounts_outputSRR1177968.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177968.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 33329786                                                  ||
+||    Successfully assigned reads : 19707918 (59.1%)                          ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177968.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177971.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177971.txt               ||
+||                 Summary : featureCounts_outputSRR1177971.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177971.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 36909094                                                  ||
+||    Successfully assigned reads : 21960002 (59.5%)                          ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177971.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177984.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177984.txt               ||
+||                 Summary : featureCounts_outputSRR1177984.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177984.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 29162844                                                  ||
+||    Successfully assigned reads : 18037797 (61.9%)                          ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177984.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177985.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177985.txt               ||
+||                 Summary : featureCounts_outputSRR1177985.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177985.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 30541584                                                  ||
+||    Successfully assigned reads : 18985931 (62.2%)                          ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177985.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1177986.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1177986.txt               ||
+||                 Summary : featureCounts_outputSRR1177986.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1177986.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 29031362                                                  ||
+||    Successfully assigned reads : 18174490 (62.6%)                          ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1177986.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1178023.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1178023.txt               ||
+||                 Summary : featureCounts_outputSRR1178023.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1178023.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 31896876                                                  ||
+||    Successfully assigned reads : 17195706 (53.9%)                          ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1178023.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           P SRR1178049.Aligned.sortedByCoord.out.bam       ||
+||                                                                            ||
+||             Output file : featureCounts_outputSRR1178049.txt               ||
+||                 Summary : featureCounts_outputSRR1178049.txt.summary       ||
+||              Annotation : rn4_refGene_20180308.gtf (GTF)                   ||
+||      Dir for temp files : /projectnb/bf528/users/swiss_cheese_2022/pro ... ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file rn4_refGene_20180308.gtf ...                          ||
+||    Features : 166811                                                       ||
+||    Meta-features : 18014                                                   ||
+||    Chromosomes/contigs : 44                                                ||
+||                                                                            ||
+|| Process BAM file SRR1178049.Aligned.sortedByCoord.out.bam...               ||
+||    Paired-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 38602104                                                  ||
+||    Successfully assigned reads : 20634517 (53.5%)                          ||
+||    Running time : 0.12 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "/projectnb/bf528/users/  ||
+|| swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_output  ||
+|| SRR1178049.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+

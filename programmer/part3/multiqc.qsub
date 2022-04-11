@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#$ -P bf528
+#$ -cwd
+
+source /etc/bashrc
+
+# To run this command in terminal we run: qsub multiqc.qsub
+# To check status of job we run: qstat -u multiqc.qsub
+
+# module load python/2.7.13
+# module load multiqc/1.12, exists but it does not work properly...
+#we will be using a newer version of python
+
+module load python3/3.7.9
+module load multiqc/1.10.1
+
+#path to your samples directory
+multiqc /projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts

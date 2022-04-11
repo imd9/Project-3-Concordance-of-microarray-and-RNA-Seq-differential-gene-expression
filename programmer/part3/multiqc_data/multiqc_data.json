@@ -1,0 +1,497 @@
+{
+    "report_data_sources": {
+        "featureCounts": {
+            "all_sections": {
+                "SRR1177968": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177968.txt.summary",
+                "SRR1177960": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177960.txt.summary",
+                "SRR1178023": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1178023.txt.summary",
+                "SRR1177971": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177971.txt.summary",
+                "SRR1177984": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177984.txt.summary",
+                "SRR1178049": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1178049.txt.summary",
+                "SRR1177986": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177986.txt.summary",
+                "SRR1177967": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177967.txt.summary",
+                "SRR1177985": "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts/featureCounts_outputSRR1177985.txt.summary"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "SRR1177968": {
+                "Total": 33329786,
+                "Assigned": 19707918,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3614908,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 8634611,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1372349,
+                "percent_assigned": 59.13004661956125
+            },
+            "SRR1177960": {
+                "Total": 36936024,
+                "Assigned": 19782601,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 6774414,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 8771561,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1607448,
+                "percent_assigned": 53.55909721089633
+            },
+            "SRR1178023": {
+                "Total": 31896876,
+                "Assigned": 17195706,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 4923838,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 8334754,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1442578,
+                "percent_assigned": 53.91031397557554
+            },
+            "SRR1177971": {
+                "Total": 36909094,
+                "Assigned": 21960002,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3873054,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 9323152,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1752886,
+                "percent_assigned": 59.497537381979626
+            },
+            "SRR1177984": {
+                "Total": 29162844,
+                "Assigned": 18037797,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3163454,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 6479065,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1482528,
+                "percent_assigned": 61.85198192604261
+            },
+            "SRR1178049": {
+                "Total": 38602104,
+                "Assigned": 20634517,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 5705758,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 10636022,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1625807,
+                "percent_assigned": 53.454384248071044
+            },
+            "SRR1177986": {
+                "Total": 29031362,
+                "Assigned": 18174490,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3158542,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 6290573,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1407757,
+                "percent_assigned": 62.60295331648581
+            },
+            "SRR1177967": {
+                "Total": 32106856,
+                "Assigned": 19161425,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3599034,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 7952928,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1393469,
+                "percent_assigned": 59.68016613024957
+            },
+            "SRR1177985": {
+                "Total": 30541584,
+                "Assigned": 18985931,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3339316,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 6706813,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1509524,
+                "percent_assigned": 62.164198818240735
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "percent_assigned": {
+                "title": "% Assigned",
+                "description": "% Assigned reads",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "RdYlGn",
+                "namespace": "featureCounts",
+                "rid": "mqc-generalstats-featurecounts-percent_assigned",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            },
+            "Assigned": {
+                "title": "M Assigned",
+                "description": "Assigned reads (millions)",
+                "min": 0,
+                "scale": "PuBu",
+                "modify": 1e-06,
+                "shared_key": "read_count",
+                "namespace": "featureCounts",
+                "rid": "mqc-generalstats-featurecounts-Assigned",
+                "format": "{:,.1f}",
+                "colour": "55,126,184",
+                "hidden": null,
+                "max": null,
+                "ceiling": null,
+                "floor": null,
+                "minRange": null,
+                "placement": 1000.0,
+                "dmax": 21.960002,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/share/pkg.7/multiqc/1.10.1/install/bin/multiqc /projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts",
+    "report_plot_data": {
+        "featureCounts_assignment_plot": {
+            "plot_type": "bar_graph",
+            "samples": [
+                [
+                    "SRR1177960",
+                    "SRR1177967",
+                    "SRR1177968",
+                    "SRR1177971",
+                    "SRR1177984",
+                    "SRR1177985",
+                    "SRR1177986",
+                    "SRR1178023",
+                    "SRR1178049"
+                ]
+            ],
+            "datasets": [
+                [
+                    {
+                        "name": "Assigned",
+                        "data": [
+                            19782601.0,
+                            19161425.0,
+                            19707918.0,
+                            21960002.0,
+                            18037797.0,
+                            18985931.0,
+                            18174490.0,
+                            17195706.0,
+                            20634517.0
+                        ]
+                    },
+                    {
+                        "name": "Unassigned: Multi Mapping",
+                        "data": [
+                            6774414.0,
+                            3599034.0,
+                            3614908.0,
+                            3873054.0,
+                            3163454.0,
+                            3339316.0,
+                            3158542.0,
+                            4923838.0,
+                            5705758.0
+                        ]
+                    },
+                    {
+                        "name": "Unassigned: No Features",
+                        "data": [
+                            8771561.0,
+                            7952928.0,
+                            8634611.0,
+                            9323152.0,
+                            6479065.0,
+                            6706813.0,
+                            6290573.0,
+                            8334754.0,
+                            10636022.0
+                        ]
+                    },
+                    {
+                        "name": "Unassigned: Ambiguity",
+                        "data": [
+                            1607448.0,
+                            1393469.0,
+                            1372349.0,
+                            1752886.0,
+                            1482528.0,
+                            1509524.0,
+                            1407757.0,
+                            1442578.0,
+                            1625807.0
+                        ]
+                    }
+                ]
+            ],
+            "config": {
+                "id": "featureCounts_assignment_plot",
+                "title": "featureCounts: Assignments",
+                "ylab": "# Reads",
+                "cpswitch_counts_label": "Number of Reads"
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_featureCounts": {
+            "SRR1177968": {
+                "Total": 33329786,
+                "Assigned": 19707918,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3614908,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 8634611,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1372349,
+                "percent_assigned": 59.13004661956125
+            },
+            "SRR1177960": {
+                "Total": 36936024,
+                "Assigned": 19782601,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 6774414,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 8771561,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1607448,
+                "percent_assigned": 53.55909721089633
+            },
+            "SRR1178023": {
+                "Total": 31896876,
+                "Assigned": 17195706,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 4923838,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 8334754,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1442578,
+                "percent_assigned": 53.91031397557554
+            },
+            "SRR1177971": {
+                "Total": 36909094,
+                "Assigned": 21960002,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3873054,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 9323152,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1752886,
+                "percent_assigned": 59.497537381979626
+            },
+            "SRR1177984": {
+                "Total": 29162844,
+                "Assigned": 18037797,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3163454,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 6479065,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1482528,
+                "percent_assigned": 61.85198192604261
+            },
+            "SRR1178049": {
+                "Total": 38602104,
+                "Assigned": 20634517,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 5705758,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 10636022,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1625807,
+                "percent_assigned": 53.454384248071044
+            },
+            "SRR1177986": {
+                "Total": 29031362,
+                "Assigned": 18174490,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3158542,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 6290573,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1407757,
+                "percent_assigned": 62.60295331648581
+            },
+            "SRR1177967": {
+                "Total": 32106856,
+                "Assigned": 19161425,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3599034,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 7952928,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1393469,
+                "percent_assigned": 59.68016613024957
+            },
+            "SRR1177985": {
+                "Total": 30541584,
+                "Assigned": 18985931,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 3339316,
+                "Unassigned_Secondary": 0,
+                "Unassigned_Nonjunction": 0,
+                "Unassigned_NoFeatures": 6706813,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 1509524,
+                "percent_assigned": 62.164198818240735
+            }
+        },
+        "multiqc_general_stats": {
+            "SRR1177968": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 59.13004661956125,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 19707918
+            },
+            "SRR1177960": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 53.55909721089633,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 19782601
+            },
+            "SRR1178023": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 53.91031397557554,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 17195706
+            },
+            "SRR1177971": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 59.497537381979626,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 21960002
+            },
+            "SRR1177984": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 61.85198192604261,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 18037797
+            },
+            "SRR1178049": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 53.454384248071044,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 20634517
+            },
+            "SRR1177986": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 62.60295331648581,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 18174490
+            },
+            "SRR1177967": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 59.68016613024957,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 19161425
+            },
+            "SRR1177985": {
+                "featureCounts_mqc-generalstats-featurecounts-percent_assigned": 62.164198818240735,
+                "featureCounts_mqc-generalstats-featurecounts-Assigned": 18985931
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts"
+    ],
+    "config_analysis_dir": [
+        "/projectnb/bf528/users/swiss_cheese_2022/project_3/programmer/featurecounts"
+    ],
+    "config_creation_date": "2022-04-09, 04:07",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/share/pkg.7/multiqc/1.10.1/install/lib/python3.7/site-packages/multiqc/utils",
+    "config_short_version": "1.10.1",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.10.1"
+}
